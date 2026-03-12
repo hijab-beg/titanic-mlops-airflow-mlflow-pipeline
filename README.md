@@ -299,7 +299,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Student ID**: 22i-2071
+Hijab Beg
 
 ## 🙏 Acknowledgments
 
@@ -310,4 +310,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Note**: This is an educational project demonstrating MLOps best practices with Airflow and MLflow integration.
+**Note**: This is an educational task demonstrating MLOps best practices with Airflow and MLflow integration.
