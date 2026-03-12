@@ -36,6 +36,7 @@ This project demonstrates a production-ready MLOps pipeline that includes:
                  │
                  └──> MLflow Server
 ```
+<img width="1868" height="278" alt="mlops_airflow_mlflow_pipeline-graph" src="https://github.com/user-attachments/assets/96bf62e5-d379-4c2b-bf8e-2f8578b0aa06" />
 
 ## 🛠️ Technology Stack
 
