@@ -1,10 +1,5 @@
 # Technical Report: Airflow + MLflow Titanic Survival Pipeline
 
-**Student ID**: 22i-2071  
-**Course**: MLOps  
-**Date**: March 12, 2026
-
----
 
 ## 1. Architecture Explanation (Airflow + MLflow Interaction)
 
